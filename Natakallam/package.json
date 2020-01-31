@@ -11,7 +11,14 @@
     "build": "frontity build",
     "serve": "frontity serve"
   },
-  "prettier": {},
+  "prettier": {
+    "trailingComma": "es5",
+    "printWidth": 80,
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "endOfLine": "lf"
+  },
   "dependencies": {
     "frontity": "^1.4.4",
     "@frontity/core": "^1.4.1",
