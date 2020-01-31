@@ -1,10 +1,10 @@
 const settings = {
-  "name": "natakallam",
+  "name": "Natakallam",
   "state": {
     "frontity": {
       "url": "https://test.frontity.io",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "title": "Nataklam",
+      "description": "Learn a language. Change a life."
     }
   },
   "packages": [
@@ -18,20 +18,20 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Learn Language",
+              "/conversation-sessions/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Academic Programs",
+              ""
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Refugee Voices",
+              "/refugee-voices/"
             ],
             [
               "About Us",
-              "/about-us/"
+              "/about/"
             ]
           ],
           "featured": {
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://test.frontity.io/wp-json"
+          "api": "https://natakallam.com/wp-json"
         }
       }
     },

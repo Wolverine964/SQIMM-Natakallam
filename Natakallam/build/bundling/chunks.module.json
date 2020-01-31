@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.5",
-  "hash": "ee3c4080a943bf42b899",
+  "hash": "392d83a7dc5f4eed115e",
   "publicPath": "/static/",
-  "outputPath": "C:\\Users\\ReCoded\\Documents\\MyFiles\\Re-coded\\Natakalem-project\\SQIMM-Natakallam\\Natakallam\\build\\static",
+  "outputPath": "F:\\Programming\\ReCoded\\Natakalem\\SQIMM-Natakallam\\Natakallam\\build\\static",
   "assetsByChunkName": {
     "list": "list.module.js",
     "natakallam": "natakallam.module.js"
@@ -12,7 +12,7 @@
   "assets": [
     {
       "name": "list.module.js",
-      "size": 54030,
+      "size": 51184,
       "chunks": [
         "list"
       ],
@@ -24,7 +24,7 @@
     },
     {
       "name": "natakallam.module.js",
-      "size": 5360505,
+      "size": 5349550,
       "chunks": [
         "natakallam"
       ],
