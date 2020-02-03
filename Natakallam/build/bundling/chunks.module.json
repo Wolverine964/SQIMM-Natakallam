@@ -2,17 +2,31 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.5",
-  "hash": "ee3c4080a943bf42b899",
+  "hash": "cf3b2edae2f8365e7158",
   "publicPath": "/static/",
-  "outputPath": "C:\\Users\\ReCoded\\Documents\\MyFiles\\Re-coded\\Natakalem-project\\SQIMM-Natakallam\\Natakallam\\build\\static",
+  "outputPath": "E:\\SQIMM-Natakallam\\Natakallam\\build\\static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "natakallam": "natakallam.module.js"
+    "natakallam": [
+      "natakallam.module.js",
+      "natakallam.6d6ec454ae1b782e9aa7.hot-update.js"
+    ]
   },
   "assets": [
     {
+      "name": "6d6ec454ae1b782e9aa7.hot-update.json",
+      "size": 52,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
       "name": "list.module.js",
-      "size": 54030,
+      "size": 52650,
       "chunks": [
         "list"
       ],
@@ -23,8 +37,23 @@
       "emitted": false
     },
     {
+      "name": "natakallam.6d6ec454ae1b782e9aa7.hot-update.js",
+      "size": 10465,
+      "chunks": [
+        "natakallam"
+      ],
+      "chunkNames": [
+        "natakallam"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
       "name": "natakallam.module.js",
-      "size": 5360505,
+      "size": 7887855,
       "chunks": [
         "natakallam"
       ],
@@ -42,7 +71,8 @@
         "natakallam"
       ],
       "assets": [
-        "natakallam.module.js"
+        "natakallam.module.js",
+        "natakallam.6d6ec454ae1b782e9aa7.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -54,7 +84,8 @@
         "natakallam"
       ],
       "assets": [
-        "natakallam.module.js"
+        "natakallam.module.js",
+        "natakallam.6d6ec454ae1b782e9aa7.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
