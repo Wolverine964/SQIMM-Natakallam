@@ -1,3 +1,4 @@
+//this is the component for the box element
 import React, { Component } from 'react'
 import './style.css'
 
@@ -7,7 +8,8 @@ export default class blogBox extends Component {
     this.data = props.data
   }
 
-  timeAgo = (date) => {
+  // some function that ended up being a failure
+  timeAgo = (date) => { 
     const today = new Date()
     let difference
     if (date.slice(0,4) != today.getFullYear()){
