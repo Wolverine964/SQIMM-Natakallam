@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import BoxesContainer from './BlogBoxes'
+import Card from './Card'
 //if you only spicified the folder
 //it'll automatically take the index.js file
 import './App.css';
@@ -9,6 +10,11 @@ function App() {
   return (
     <div className="App">
       <BoxesContainer />
+      <hr />
+      <hr />
+      <hr />
+      <Card />
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
