@@ -28,7 +28,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Container className="Container">
-         
+         <h2 class = 'dn'>Get Involve Card</h2>
           <CardNav
             items={this.state.data.map(e => e.alt)}
             onItemClick={this.onItemClick}

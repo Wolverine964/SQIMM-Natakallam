@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import BoxesContainer from './BlogBoxes'
 import Card from './Card'
+import GetInvolve from './GetInvolved'
 //if you only spicified the folder
 //it'll automatically take the index.js file
 import './App.css';
@@ -11,9 +12,11 @@ function App() {
     <div className="App">
       <BoxesContainer />
       <hr />
-      <hr />
+     
       <hr />
       <Card />
+      <hr />
+      <GetInvolve />
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
