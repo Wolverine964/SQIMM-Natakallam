@@ -1,6 +1,7 @@
 .box {
   width: 350px;
   height: 410px;
+  font-size: large;
   background-color: #e9e7e76c;
   margin: 20px;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
@@ -17,13 +18,9 @@ img {
 }
 
 .title {
-  margin: 20px 0;
+  margin: 20px 15px;
   display: flex;
   justify-content: space-between;
-}
-
-.title * {
-  margin: 0 15px;
 }
 
 .info {
