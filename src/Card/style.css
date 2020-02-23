@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+  background-color: #282c34;
+  padding-top: 80px;
+}
+.box-img {
+  width: 100%;
+  margin:20px ;
+}
+
+.Container{
+  background-color: #ADACAC;
+  padding-top: 40px;
+  border-radius: 0.25rem;
+}
+/* for the nav bar button */
+.link{
+  color: rgb(119, 118, 118);
+  background-color: #ADACAC;
+  border: none;
+}
+
+
+/* active class below did not ues yet for testing  */
+.active{
+  font-size: 30px;
+}
+
