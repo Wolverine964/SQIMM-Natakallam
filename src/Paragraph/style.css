@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  font-size: large;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+  color: #535252;
+  text-transform: uppercase;
+}
+.header {
+  color: #8a8a8a;
+  /* margin-top: -10px; */
+}
+.para {
+  color: #979797;
+  font-size: large;
+  line-height: 35px;
+}
